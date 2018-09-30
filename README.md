@@ -1,1 +1,3 @@
 # Simple-Flask-Web-Application
+
+This project contains a simple web application which calculates the factorials of any number. The project takes a input values which are given using 'myassignment1.html' and the inputs obtained are processed to calculate the factorial using 'Factorial.py' The application is deployed using flask . The project contains three main files Factorial.py which has the implementation algorithm, backgroundtheme.css which has the styling of the web application and myassignment1.html which has the form to take the user input. Since web application can be accessed by different people having access, I tried to validate it for various type of inputs.
